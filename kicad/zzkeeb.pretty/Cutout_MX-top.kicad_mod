@@ -1,0 +1,18 @@
+(footprint "Cutout_MX-top" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 62a62319-7104-43ef-ade1-e0f12a76e4a4)
+  )
+  (fp_text value "Cutout_MX-top" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ea8b27ca-9e11-4d78-ac5a-03f0c0d2df16)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 2b50fe7d-d3ed-427d-9263-175272f236a2)
+  )
+  (fp_rect (start -6.95 -6.95) (end 7 7) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp c6a2e33a-9662-417f-9a2b-8555ada19f2d))
+)
