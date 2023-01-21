@@ -1,4 +1,4 @@
-20955418272450313
+20957092529545701
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87688,6 +87688,13 @@ MCU_xiao-ble-smd
 0
 22
 22
+zzkeeb
+Pointing_Cirque-adapter
+
+
+0
+4
+4
 zzkeeb
 RotaryEncoder_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
