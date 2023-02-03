@@ -19,9 +19,4 @@
   (fp_line (start 2 2) (end 4.5 2) (layer "Edge.Cuts") (width 0.12) (tstamp c6b12d21-b276-487b-9aad-f8df402b1d5b))
   (fp_line (start 2 3.5) (end 2 2) (layer "Edge.Cuts") (width 0.12) (tstamp d15b4999-cf37-48ed-a60e-af45be3b310f))
   (fp_line (start 4.5 2) (end 4.5 -2.5) (layer "Edge.Cuts") (width 0.12) (tstamp ef7b5f4f-8763-4499-8997-cce30fb2e5cf))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_PCM12.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

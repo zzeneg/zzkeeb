@@ -5,4 +5,5 @@
   (lib (name "lib-kleeb-mcu")(type "KiCad")(uri "${KIPRJMOD}/lib/kleeb/mcu.pretty")(options "")(descr ""))
   (lib (name "lib-kleeb-switch")(type "KiCad")(uri "${KIPRJMOD}/lib/kleeb/switch.pretty")(options "")(descr ""))
   (lib (name "lib-typec")(type "KiCad")(uri "${KIPRJMOD}/lib/Type-C.pretty")(options "")(descr ""))
+  (lib (name "lib-0xCB")(type "KiCad")(uri "${KIPRJMOD}/lib/0xCB-libs/LIB/footprints/0xcb.pretty")(options "")(descr ""))
 )

@@ -23,9 +23,4 @@
   (fp_arc (start 0.6 4.4) (mid 1.8 5.6) (end 0.6 6.8) (layer "Edge.Cuts") (width 0.12) (tstamp 6af18d81-9707-4188-a53a-ef1d6b842026))
   (fp_circle (center 7 -2.5) (end 7 -3.75) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 2b3b0c5c-d5fb-485c-9744-1f746955ba0a))
   (fp_circle (center 7 2.5) (end 7 1.25) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 875ced10-f719-4ee0-9520-4f6427f6672f))
-  (model "../footprints/Rotary Encoder.step" hide
-    (offset (xyz -6 6 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
 )

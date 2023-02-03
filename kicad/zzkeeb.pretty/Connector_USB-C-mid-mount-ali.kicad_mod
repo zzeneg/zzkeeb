@@ -49,9 +49,9 @@
   (pad "S2" thru_hole oval (at 5.615 -1.35) (size 1.2 1.9) (drill oval 0.6 1.3) (layers *.Cu *.Mask) (tstamp d96a319c-1992-46f6-a18c-1bf6421c2e6a))
   (pad "S3" thru_hole oval (at 5.615 2.65) (size 1.2 2.3) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp 21195f7c-4772-47ae-818b-2959f7eede31))
   (pad "S4" thru_hole oval (at -5.615 2.65) (size 1.2 2.3) (drill oval 0.6 1.7) (layers *.Cu *.Mask) (tstamp a34da79e-41dc-478f-99ef-ee1d06edf115))
-  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_0xcb-dev_0xcb-libs/0xcb.3dshapes/2169900001.stp"
-    (offset (xyz 0 -1.14 -0.17))
+  (model "${ZZKEEBMODELS}/2169900001.stp"
+    (offset (xyz 0 -1.14 -0.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 90 -180 0))
+    (rotate (xyz -90 0 180))
   )
 )

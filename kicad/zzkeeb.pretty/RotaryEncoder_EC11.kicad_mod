@@ -32,7 +32,7 @@
   (pad "C" thru_hole circle (at -7.5 0) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp e5c7d985-b91d-4e1c-b63a-aed8c2bcca67))
   (pad "S1" thru_hole circle (at 7 2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp b6f30ef0-018c-4764-83d7-a8c0153ed1d1))
   (pad "S2" thru_hole circle (at 7 -2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask) (tstamp 9ebf305e-709a-4986-ab9a-36e3083a9cc3))
-  (model "../footprints/Rotary Encoder.step" hide
+  (model "${ZZKEEBMODELS}/Rotary Encoder.step"
     (offset (xyz -6 6 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

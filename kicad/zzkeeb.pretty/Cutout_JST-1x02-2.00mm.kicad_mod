@@ -19,9 +19,4 @@
     (tstamp 44b72782-9c44-4b4d-8557-342114d04ada)
   )
   (fp_rect (start -1 -1) (end 3 1) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp de33bc82-db39-4d5e-a4dd-49883f8cdcfa))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal.wrl" hide
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )

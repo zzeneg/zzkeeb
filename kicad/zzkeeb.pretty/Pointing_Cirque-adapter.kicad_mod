@@ -19,4 +19,14 @@
   (pad "2" thru_hole circle (at 5.08 -1.27) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp cdf260a4-064d-49a4-8f4c-9735a0afbfa6))
   (pad "3" thru_hole circle (at 5.08 1.27) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask) (tstamp 54173918-92b8-40ca-851c-9ba768f1eae4))
   (pad "4" thru_hole rect (at 5.08 3.81) (size 1.8 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp c1da22cb-8f41-409c-a43d-8a53e150dba5))
+  (model "${ZZKEEBMODELS}/TM035035.step"
+    (offset (xyz 0 0 -9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+  (model "${ZZKEEBMODELS}/TM040040_Overlay.STEP"
+    (offset (xyz 0 0 -10))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )

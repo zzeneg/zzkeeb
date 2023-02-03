@@ -36,4 +36,9 @@
   (pad "13" thru_hole oval (at 4.32 -6.78) (size 1.1 2.2) (drill oval 0.6 1.7) (layers *.Cu "B.Mask") (tstamp 7418e34d-17e9-4b02-bcc3-30178e8d7cd6))
   (pad "13" thru_hole oval (at -4.32 -2.6) (size 1.1 1.7) (drill oval 0.6 1.2) (layers *.Cu "B.Mask") (tstamp d9a43abc-a42b-4c1d-8c02-4bd4452a7803))
   (pad "13" thru_hole oval (at -4.32 -6.78) (size 1.1 2.2) (drill oval 0.6 1.7) (layers *.Cu "B.Mask") (tstamp df17fc25-1ae0-4f7f-87f5-95b1a23b08f9))
+  (model "${ZZKEEBMODELS}/hro-type-c-31-m-12.step"
+    (offset (xyz 0 3.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -1,4 +1,4 @@
-(footprint "Cutout_1N4148_SOD123" (version 20211014) (generator pcbnew)
+(footprint "Cutout_1N4148-SOD123" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5B7FD6E5)
   (descr "Resitance 3 pas")
@@ -13,9 +13,4 @@
     (tstamp 0094a30d-a2d2-4847-89cb-e4d04fd89343)
   )
   (fp_rect (start -3 -1) (end 3 1) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp fc721ccc-addf-4815-a456-3089db71d513))
-  (model "../lib/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
