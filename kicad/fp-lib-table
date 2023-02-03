@@ -1,3 +1,8 @@
 (fp_lib_table
   (lib (name "zzkeeb")(type "KiCad")(uri "${KIPRJMOD}/zzkeeb.pretty")(options "")(descr ""))
+  (lib (name "lib-kbd")(type "KiCad")(uri "${KIPRJMOD}/lib/kbd")(options "")(descr ""))
+  (lib (name "lib-keebio")(type "KiCad")(uri "${KIPRJMOD}/lib/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "lib-kleeb-mcu")(type "KiCad")(uri "${KIPRJMOD}/lib/kleeb/mcu.pretty")(options "")(descr ""))
+  (lib (name "lib-kleeb-switch")(type "KiCad")(uri "${KIPRJMOD}/lib/kleeb/switch.pretty")(options "")(descr ""))
+  (lib (name "lib-typec")(type "KiCad")(uri "${KIPRJMOD}/lib/Type-C.pretty")(options "")(descr ""))
 )

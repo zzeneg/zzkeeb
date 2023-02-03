@@ -1,0 +1,12 @@
+[submodule "kicad/lib/kbd"]
+	path = kicad/lib/kbd
+	url = ../../foostan/kbd
+[submodule "kicad/lib/kleeb"]
+	path = kicad/lib/kleeb
+	url = ../../crides/kleeb
+[submodule "kicad/lib/Keebio-Parts.pretty"]
+	path = kicad/lib/Keebio-Parts.pretty
+	url = ../../keebio/Keebio-Parts.pretty
+[submodule "kicad/lib/Type-C.pretty"]
+	path = kicad/lib/Type-C.pretty
+	url = ../../ai03-2725/Type-C.pretty
