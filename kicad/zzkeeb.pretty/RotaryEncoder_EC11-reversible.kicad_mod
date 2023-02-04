@@ -4,11 +4,11 @@
   (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
   (tags "rotary encoder")
   (attr through_hole)
-  (fp_text reference "REF**" (at -4.7 -7.2) (layer "F.Fab")
+  (fp_text reference "REF**" (at -3.302 -3.556) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 609128db-7d3c-4102-9460-a91c88edcd14)
   )
-  (fp_text value "RotaryEncoder_EC11-reversible" (at 0 7.9) (layer "F.Fab")
+  (fp_text value "RotaryEncoder_EC11-reversible" (at 0 7.9) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b70f5c68-44b6-4c18-89e2-5fa4d92f5907)
   )

@@ -2,11 +2,11 @@
   (layer "F.Cu")
   (tedit 5F29703B)
   (attr through_hole)
-  (fp_text reference "REF**" (at -0.05 -2.4) (layer "F.Fab")
+  (fp_text reference "REF**" (at 0 -1.016) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7de56dd9-5ff8-43c1-863a-359494218985)
   )
-  (fp_text value "Hole_Breakaway-Tabs" (at -0.05 0.75) (layer "F.Fab")
+  (fp_text value "Hole_Breakaway-Tabs" (at -0.05 0.75) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 29e9da22-3791-48b4-9de1-4c926d8fe0df)
   )
