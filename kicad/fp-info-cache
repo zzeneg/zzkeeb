@@ -1,4 +1,4 @@
-3307347195501720
+3453136487845565
 Button_Switch_SMD
 Nidec_Copal_SH-7010A
 4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
@@ -11689,6 +11689,594 @@ Logo WEEE
 0
 0
 0
+lib-0xCB
+0xCB
+
+
+0
+0
+0
+lib-0xCB
+0xCB-S
+
+
+0
+0
+0
+lib-0xCB
+1.9x2.8mm SW
+ST-1194 C589221 1.9x2.8mm
+
+0
+4
+2
+lib-0xCB
+32U4 AU + MU
+
+QFN 
+0
+119
+45
+lib-0xCB
+128x64OLED
+
+
+0
+4
+4
+lib-0xCB
+AST1109MLTRQ
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer Beeper
+0
+2
+2
+lib-0xCB
+AVR_PROG_2.54_THT
+AVR Programmer 6 pogo pin 2.54 mm spacing
+
+0
+6
+6
+lib-0xCB
+BlackPillSTM32F401CCU6
+Through hole headers for BlackPill weact STM32F401. No SWD breakout. Fancy silkscreen.
+module BlackPill weact STM32F401
+0
+40
+40
+lib-0xCB
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+lib-0xCB
+Crystal_SMD_2520-4Pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+lib-0xCB
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal reduced paste
+0
+4
+4
+lib-0xCB
+DNP-QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+45
+45
+lib-0xCB
+D_0402_1005Metric
+Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode
+0
+2
+2
+lib-0xCB
+EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+lib-0xCB
+Ferrite_Bead_0603
+ferrite bead 0603
+Ferrite Bead
+0
+2
+2
+lib-0xCB
+Fuse_0603_1608Metric
+Fuse SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+fuse
+0
+2
+2
+lib-0xCB
+Fuse_0805_2012Metric
+Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+lib-0xCB
+GCT_USB4105_REVA
+
+
+0
+20
+20
+lib-0xCB
+GCT_USB4120-03-C_REVA
+
+
+0
+20
+20
+lib-0xCB
+GT-USB-7014C
+
+
+0
+20
+20
+lib-0xCB
+HS-F
+
+
+0
+0
+0
+lib-0xCB
+J-LINK_6-PIN_NEEDLE_ADAPTER
+
+
+0
+6
+6
+lib-0xCB
+J-LINK_6-PIN_NEEDLE_ADAPTER_SMALL
+
+
+0
+6
+6
+lib-0xCB
+JST-SR-4
+
+
+0
+6
+4
+lib-0xCB
+Kailh_Choc_1.5u
+
+
+0
+2
+2
+lib-0xCB
+Kailh_Choc_1u
+
+
+0
+2
+2
+lib-0xCB
+LED_EAST1616RGBA3
+
+
+0
+4
+4
+lib-0xCB
+MX_SK6812MINI-E
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+lib-0xCB
+Micro_Push_Button_3x6x2.5mm
+
+
+0
+2
+2
+lib-0xCB
+PogoISP
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+lib-0xCB
+QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm_ThermalVias
+QFN, 28 Pin (http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#page=283), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+54
+29
+lib-0xCB
+QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm_ThermalVias
+QFN, 44 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/2512S.pdf#page=17), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+75
+45
+lib-0xCB
+QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
+QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+61
+57
+lib-0xCB
+R_0402_1005Metric
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+lib-0xCB
+SK6812MINI-HS
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+4
+4
+lib-0xCB
+SOD882D
+
+
+0
+2
+2
+lib-0xCB
+SOT-563
+SOT563
+SOT-563
+0
+6
+6
+lib-0xCB
+SOT-666
+SOT666
+SOT-666
+0
+6
+6
+lib-0xCB
+SW_Cherry_MX_PCB_1.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.00u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_1.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.25u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_1.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.50u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_1.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.75u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_2.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.00u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_2.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.25u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_2.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.75u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_3.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 3.00u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_6.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_6.00u_offset
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u offset
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_6.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.25u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_7.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 7.00u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_10.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 7.00u
+0
+2
+2
+lib-0xCB
+SW_Cherry_MX_PCB_ISOEnter_Rotated90
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+lib-0xCB
+SW_Hotswap_Kailh_1.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.00u
+0
+2
+2
+lib-0xCB
+SW_Hotswap_Kailh_1.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.00u
+0
+2
+2
+lib-0xCB
+SW_Hotswap_Kailh_1.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.50u
+0
+2
+2
+lib-0xCB
+SW_Hotswap_Kailh_1.75u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.75u
+0
+2
+2
+lib-0xCB
+SW_Hotswap_Kailh_2.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.00u
+0
+2
+2
+lib-0xCB
+SW_Hotswap_Kailh_2.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.25u
+0
+2
+2
+lib-0xCB
+SW_Hotswap_Kailh_6.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 7.00u
+0
+2
+2
+lib-0xCB
+SW_Hotswap_Kailh_7.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 7.00u
+0
+2
+2
+lib-0xCB
+SW_Tactile_SPST_Angled
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+4
+2
+lib-0xCB
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+net tie solder jumper bridged
+0
+3
+3
+lib-0xCB
+Stabilizer_Cherry_MX_2u
+Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
+Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u
+0
+0
+0
+lib-0xCB
+Stabilizer_Cherry_MX_3u
+Cherry MX key stabilizer 3u
+Cherry MX key stabilizer 3u
+0
+0
+0
+lib-0xCB
+Stabilizer_Cherry_MX_6.25u
+Cherry MX key stabilizer 6.25u
+Cherry MX key stabilizer 6.25u
+0
+0
+0
+lib-0xCB
+Stabilizer_Cherry_MX_6u
+Cherry MX key stabilizer 6u
+Cherry MX key stabilizer 6u
+0
+0
+0
+lib-0xCB
+Stabilizer_Cherry_MX_7u
+Cherry MX key stabilizer 7u
+Cherry MX key stabilizer 7u
+0
+0
+0
+lib-0xCB
+Stabilizer_Cherry_MX_8u
+Cherry MX key stabilizer 8u 9u 10u
+Cherry MX key stabilizer 8u 9u 10u
+0
+0
+0
+lib-0xCB
+TVS D_SOD-123F Rounded
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+lib-0xCB
+TestPoint_Pad_D0.5mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+lib-0xCB
+TestPoint_Pad_D0.8mm
+SMD pad as test Point, diameter 1.0mm
+test point SMD pad
+0
+1
+1
+lib-0xCB
+USB_C_Receptacle_HRO-TYPE-C-31-M-13
+
+
+0
+20
+20
+lib-0xCB
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+
+
+0
+20
+20
+lib-0xCB
+USB_C_Receptacle_HRO_TYPE-C-31-M-31
+
+
+0
+20
+20
+lib-0xCB
+W25Q32JVUUIQ
+16MB flash
+
+0
+10
+10
+lib-0xCB
+W25Q128JVPIQ
+16MB flash
+
+0
+9
+9
+lib-0xCB
+X2SON-4
+
+
+0
+5
+5
+lib-0xCB
+generic-promicro
+
+
+0
+24
+24
+lib-0xCB
+helios
+USB C pro micro compatible microcontroller
+
+0
+34
+34
+lib-0xCB
+molex2169900001
+
+
+0
+20
+20
+lib-0xCB
+mount
+
+
+0
+1
+1
+lib-0xCB
+mouse-bite-5mm-slot
+
+
+0
+0
+0
+lib-0xCB
+pluto
+USB C pro micro compatible microcontroller
+
+0
+33
+33
+lib-0xCB
+trackball_choc_combi
+
+
+0
+7
+7
 lib-kbd
 1pin_conn
 Resitance 3 pas
@@ -13769,6 +14357,13 @@ Pointing_Cirque-adapter
 4
 4
 zzkeeb
+Pointing_Cirque-adapter-reversible
+
+
+0
+4
+4
+zzkeeb
 RotaryEncoder_EC11
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
@@ -13776,7 +14371,21 @@ rotary encoder
 7
 5
 zzkeeb
+RotaryEncoder_EC11-reversible
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+5
+zzkeeb
 RotaryEncoder_EVQWGD001
+
+
+0
+6
+6
+zzkeeb
+RotaryEncoder_EVQWGD001-reversible
 
 
 0
