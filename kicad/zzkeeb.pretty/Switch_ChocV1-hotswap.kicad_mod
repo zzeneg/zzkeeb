@@ -70,4 +70,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${ZZKEEBMODELS}/PG1350-socket.STEP"
+    (offset (xyz 5 -3.8 -1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
