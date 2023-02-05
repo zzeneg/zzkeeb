@@ -1,2 +1,7 @@
 */*-backups
+*/fp-info-cache
+*/fp-lib-table
+*/sym-lib-table
 *.bak
+*.kicad_prl
+*.kicad_pro
