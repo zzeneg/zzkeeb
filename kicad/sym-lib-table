@@ -1,3 +1,8 @@
 (sym_lib_table
   (lib (name "zzkeeb")(type "KiCad")(uri "${KIPRJMOD}/zzkeeb.kicad_sym")(options "")(descr ""))
+  (lib (name "lib-kbd")(type "Legacy")(uri "${KIPRJMOD}/lib/kbd/kicad-symbols/kbd.lib")(options "")(descr ""))
+  (lib (name "lib-kleeb-mcu")(type "KiCad")(uri "${KIPRJMOD}/lib/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "lib-kleeb-misc")(type "KiCad")(uri "${KIPRJMOD}/lib/kleeb/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "lib-typec")(type "Legacy")(uri "${KIPRJMOD}/lib/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "lib-0xcb")(type "KiCad")(uri "${KIPRJMOD}/lib/0xCB-libs/LIB/symbols/0xcb.kicad_sym")(options "")(descr ""))
 )
