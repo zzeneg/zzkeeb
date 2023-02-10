@@ -1,0 +1,21 @@
+(footprint "Cutout_LED_SK6812-MINI-E" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5ECEB660)
+  (fp_text reference "REF**" (at 0 2.1 unlocked) (layer "B.SilkS") hide
+    (effects (font (size 0.7 0.7) (thickness 0.15)) (justify mirror))
+    (tstamp 79f70fec-60a6-434e-8346-b68d858f84de)
+  )
+  (fp_text value "Cutout_LED_SK6812-MINI-E" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 4f3b639d-75f3-4a83-ad91-c49d4641cfc9)
+  )
+  (fp_line (start -3.7 -1.5) (end 3.7 -1.5) (layer "Edge.Cuts") (width 0.12) (tstamp 18e04d1d-9f2f-40d2-af1c-d8fe18a19371))
+  (fp_line (start 3.7 1.5) (end -3.7 1.5) (layer "Edge.Cuts") (width 0.12) (tstamp 77fdf92c-37b6-4647-a665-36e7397bcbef))
+  (fp_line (start -3.7 1.5) (end -3.7 -1.5) (layer "Edge.Cuts") (width 0.12) (tstamp c1702c88-feb0-4050-bc5f-430b97b2cb35))
+  (fp_line (start 3.7 -1.5) (end 3.7 1.5) (layer "Edge.Cuts") (width 0.12) (tstamp d24b9b3f-b741-4277-835f-de16a5c75e61))
+  (model "${ZZKEEBMODELS}/YS-SK6812MINI-E Soldered.step"
+    (offset (xyz 0 0 -2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
