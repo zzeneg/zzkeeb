@@ -1,4 +1,4 @@
-(footprint "Cutout_RotaryEncoder_EVQWGD001" (version 20211014) (generator pcbnew)
+(footprint "Cutout_RotaryEncoder_EVQWGD001-bottom" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 6040A10C)
   (attr through_hole)
