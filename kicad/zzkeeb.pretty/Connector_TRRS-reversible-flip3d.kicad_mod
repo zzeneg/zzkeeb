@@ -34,7 +34,7 @@
     (clearance 0.15) (tstamp 86a6705a-f994-459f-b6df-f03b5c3c399f))
   (pad "T" thru_hole oval (at 2.975 10.3) (size 1.7 2.5) (drill oval 1 1.5) (layers *.Cu "B.Mask")
     (clearance 0.15) (tstamp b047f7df-1204-4275-8078-dfaf34999c18))
-  (model "${ZZKEEBMODELS}/PJ320A Soldered.step"
+  (model "${ZZKEEB}/lib/kbd/kicad-packages3D/kbd.3dshapes/PJ320A Soldered.step"
     (offset (xyz -0.9 -8.5 -1.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))

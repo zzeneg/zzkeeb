@@ -15,12 +15,12 @@
   (pad "2" thru_hole circle (at 0 2.54) (size 1.8 1.8) (drill 1) (layers *.Cu "B.Mask") (tstamp cdf260a4-064d-49a4-8f4c-9735a0afbfa6))
   (pad "3" thru_hole circle (at 0 5.08) (size 1.8 1.8) (drill 1) (layers *.Cu "B.Mask") (tstamp 54173918-92b8-40ca-851c-9ba768f1eae4))
   (pad "4" thru_hole circle (at 0 7.62) (size 1.8 1.8) (drill 1) (layers *.Cu "B.Mask") (tstamp c1da22cb-8f41-409c-a43d-8a53e150dba5))
-  (model "${ZZKEEBMODELS}/TM035035.step"
+  (model "${ZZKEEB}/lib/kleeb/models/TM035035.step"
     (offset (xyz 0 0 9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 90))
   )
-  (model "${ZZKEEBMODELS}/TM040040_Overlay.STEP"
+  (model "${ZZKEEB}/models/TM040040_Overlay.STEP"
     (offset (xyz 0 0 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 180 0))

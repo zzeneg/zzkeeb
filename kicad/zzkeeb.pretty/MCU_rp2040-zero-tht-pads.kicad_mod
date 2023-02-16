@@ -47,7 +47,7 @@
   (pad "31" thru_hole circle (at -6.096 -2.216) (size 1 1) (drill 0.8) (layers *.Cu *.Mask) (tstamp 81b95d0d-8967-4ed1-8d40-39925d015ae8))
   (pad "32" thru_hole circle (at -6.096 -3.486) (size 1 1) (drill 0.8) (layers *.Cu *.Mask) (tstamp b66731e7-61d5-4447-bf6a-e91a62b82298))
   (pad "33" thru_hole circle (at -6.096 -4.756) (size 1 1) (drill 0.8) (layers *.Cu *.Mask) (tstamp ae0e6b31-27d7-4383-a4fc-7557b0a19382))
-  (model "${ZZKEEBMODELS}/rp2040-zero.step"
+  (model "${ZZKEEB}/lib/kleeb/models/rp2040-zero.step"
     (offset (xyz 0 0 -0.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

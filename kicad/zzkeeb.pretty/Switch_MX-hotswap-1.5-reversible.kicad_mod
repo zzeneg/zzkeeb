@@ -81,17 +81,17 @@
           (xy -0.4 1.2)
         ) (width 0.1) (fill yes))
     ) (tstamp d2645972-8fd5-48d0-819c-ddc8a29dddee))
-  (model "${ZZKEEBMODELS}/SW_Cherry_MX_PCB.step"
+  (model "${ZZKEEB}/lib/0xCB-libs/LIB/3dmodels/0xcb.3dshapes/SW_Cherry_MX_PCB.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${ZZKEEBMODELS}/SW_Hotswap_Kailh.step"
+  (model "${ZZKEEB}/lib/0xCB-libs/LIB/3dmodels/0xcb.3dshapes/SW_Hotswap_Kailh.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "${ZZKEEBMODELS}/Row_2_1.5u.step"
+  (model "${ZZKEEB}/lib/DCS_keycaps/STEP/Blanks/Row2/Row_2_1.5u.step"
     (offset (xyz 0 0 13))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -23,8 +23,8 @@
   (pad "3" smd roundrect (at 2.55 0.75) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (roundrect_rratio 0)
     (chamfer_ratio 0.5) (chamfer bottom_right) (tstamp 744ce168-86a6-443a-8e18-92c667bf1d6c))
   (pad "4" smd rect (at 2.55 -0.75) (size 1.7 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 703100f9-221b-45d8-a38e-d1435a2ebc00))
-  (model "${ZZKEEBMODELS}/YS-SK6812MINI-E Soldered.step"
-    (offset (xyz 0 0 -2))
+  (model "${ZZKEEB}/lib/kbd/kicad-packages3D/kbd.3dshapes/YS-SK6812MINI-E Soldered.step"
+    (offset (xyz 0 0 -1.9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

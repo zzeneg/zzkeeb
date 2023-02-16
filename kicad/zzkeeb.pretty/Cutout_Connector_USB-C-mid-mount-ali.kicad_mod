@@ -17,7 +17,7 @@
     (tstamp 4b457342-459d-4183-8fe7-3b050ef19cac)
   )
   (fp_rect (start -6.25 4.75) (end 6.25 -4.25) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp fa8ac958-fc92-4618-93b9-f46ea63e7abe))
-  (model "${ZZKEEBMODELS}/2169900001.stp"
+  (model "${ZZKEEB}/lib/0xCB-libs/LIB/3dmodels/0xcb.3dshapes/2169900001.stp"
     (offset (xyz 0 -1.14 -0.2))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 -180 0))

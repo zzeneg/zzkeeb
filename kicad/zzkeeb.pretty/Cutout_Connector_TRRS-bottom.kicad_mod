@@ -12,7 +12,7 @@
   (fp_rect (start 1 8.8) (end 3.2 11.8) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 60cb51a0-f7b9-4e37-959c-e3a3242c2568))
   (fp_rect (start 1 1.8) (end 3.2 7.8) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 8ffb0929-b33d-49fb-9b94-23b08031c0ce))
   (fp_rect (start -3.2 10.2) (end -1 13.4) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 99df8d26-d1ea-436e-9b1a-6474332be1bb))
-  (model "${ZZKEEBMODELS}/PJ320A Soldered.step"
+  (model "${ZZKEEB}/lib/kbd/kicad-packages3D/kbd.3dshapes/PJ320A Soldered.step"
     (offset (xyz 0 -8.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

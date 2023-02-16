@@ -49,9 +49,9 @@
   (fp_arc (start 2 2.2) (mid 1.619239 3.119239) (end 0.7 3.5) (layer "Edge.Cuts") (width 0.12) (tstamp e13c8850-c7d3-4d08-9220-1fbed61ac3d6))
   (fp_circle (center -5.5 0) (end -5.5 -0.9) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 46469450-5938-4e86-9cb6-6e34ca759b1e))
   (fp_circle (center 0 0) (end 0 -1.75) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp c97495b6-4d05-4f96-9cc9-b35872d7c58b))
-  (model "${ZZKEEBMODELS}/PG1350-socket.STEP"
-    (offset (xyz 5 -3.8 -1.5))
+  (model "${ZZKEEB}/models/PG1350-socket.STEP"
+    (offset (xyz 9.6 -6 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 90 0 0))
   )
 )

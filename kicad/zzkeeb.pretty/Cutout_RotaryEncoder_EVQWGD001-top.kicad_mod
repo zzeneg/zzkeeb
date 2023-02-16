@@ -15,7 +15,7 @@
     (tstamp 44ccb8c9-8889-45cb-a446-49c1b39da416)
   )
   (fp_rect (start -8 -7) (end 9.5 7.5) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 1cb19361-e1b8-4ca8-8d82-14d7c25acb7c))
-  (model "${ZZKEEBMODELS}/EVQWGD001.step"
+  (model "${ZZKEEB}/lib/kleeb/models/EVQWGD001.step"
     (offset (xyz 8.6 -7.2 -3.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
