@@ -4,7 +4,7 @@
   (descr "Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)")
   (tags "connector Molex top entry")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -7) (layer "Dwgs.User")
+  (fp_text reference "REF**" (at 0 -7) (layer "Dwgs.User") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ef1b421e-2ad0-4af3-aa5c-4d59fa2380d6)
   )

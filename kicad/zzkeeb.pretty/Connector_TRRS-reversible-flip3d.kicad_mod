@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (tedit 5B986A1E)
   (attr through_hole)
-  (fp_text reference "J*" (at 0.025 4.95) (layer "F.Fab")
+  (fp_text reference "J*" (at 0.025 4.95) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9a79a11e-4019-4ac6-8e32-5fec878e69a5)
   )

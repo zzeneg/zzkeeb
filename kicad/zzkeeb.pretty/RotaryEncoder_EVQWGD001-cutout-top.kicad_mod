@@ -1,8 +1,8 @@
-(footprint "Cutout_RotaryEncoder_EVQWGD001-top" (version 20211014) (generator pcbnew)
+(footprint "RotaryEncoder_EVQWGD001-cutout-top" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 6040A10C)
   (attr through_hole)
-  (fp_text reference "REF**" (at 0 0) (layer "F.Fab")
+  (fp_text reference "REF**" (at 0 0) (layer "F.Fab") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8f8a7fe5-d440-4718-83e2-9273bd48f113)
   )

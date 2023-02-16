@@ -4,7 +4,7 @@
   (descr "JST PH series connector, S8B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST PH top entry")
   (attr through_hole)
-  (fp_text reference "REF**" (at 7 -2.55) (layer "Dwgs.User")
+  (fp_text reference "REF**" (at 7 -2.55) (layer "Dwgs.User") hide
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0bc6e54a-1ae1-4f19-9349-4e3557cfb30e)
   )
@@ -35,7 +35,7 @@
   (pad "6" thru_hole oval (at 10 0) (size 1.2 1.75) (drill 0.75) (layers *.Cu *.Mask) (tstamp 0a439fa0-8f3c-4c5a-b874-dd183cc87144))
   (pad "7" thru_hole oval (at 12 0) (size 1.2 1.75) (drill 0.75) (layers *.Cu *.Mask) (tstamp 73d77156-4c47-4981-bbf7-8dffa7870d4e))
   (pad "8" thru_hole oval (at 14 0) (size 1.2 1.75) (drill 0.75) (layers *.Cu *.Mask) (tstamp 788082f4-9359-468a-accb-851e6a59f2bb))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
