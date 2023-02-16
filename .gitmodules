@@ -13,3 +13,6 @@
 [submodule "kicad/lib/0xCB-libs"]
 	path = kicad/lib/0xCB-libs
 	url = ../../0xCB-dev/0xCB-libs.git
+[submodule "kicad/lib/DCS_keycaps"]
+	path = kicad/lib/DCS_keycaps
+	url = ../../Fooblitzky/DCS_keycaps.git

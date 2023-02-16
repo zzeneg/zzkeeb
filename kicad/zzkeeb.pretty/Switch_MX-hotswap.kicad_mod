@@ -53,14 +53,19 @@
           (xy -1.85 0.75)
         ) (width 0) (fill yes))
     ) (tstamp 5bcb5b19-8af9-4db8-841c-75f0b62bf445))
-  (model "../lib/kbd/kicad-packages3D/kbd.3dshapes/CherryMX Switch.step" hide
+  (model "${ZZKEEBMODELS}/SW_Cherry_MX_PCB.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
-  (model "../lib/kbd/kicad-packages3D/kbd.3dshapes/Kailh-CherryMX-Socket.step"
-    (offset (xyz -1.25 7.5 -3.5))
+  (model "${ZZKEEBMODELS}/SW_Hotswap_Kailh.step"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 180))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${ZZKEEBMODELS}/Row_2_1u.step"
+    (offset (xyz 0 0 13))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )
