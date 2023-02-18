@@ -1,8 +1,8 @@
-(footprint "logo_pica" (version 20211014) (generator pcbnew)
+(footprint "Logo_pica" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (attr board_only exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
+  (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3)))
     (tstamp 0bd06ff9-38b9-4205-b0e2-e2b579b1dc7d)
   )
