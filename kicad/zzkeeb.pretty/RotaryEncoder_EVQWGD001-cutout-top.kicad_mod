@@ -1,20 +1,20 @@
-(footprint "RotaryEncoder_EVQWGD001-cutout-top" (version 20211014) (generator pcbnew)
+(footprint "RotaryEncoder_EVQWGD001-cutout-top" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6040A10C)
   (attr through_hole)
   (fp_text reference "REF**" (at 0 0) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8f8a7fe5-d440-4718-83e2-9273bd48f113)
   )
   (fp_text value "RollerEncoder_Panasonic_EVQWGD001" (at -0.1 9) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 080eb162-2f68-4483-9aa9-cc8e8faf283b)
   )
   (fp_text user "${REFERENCE}" (at -2.4 -7.3) (layer "F.SilkS") hide
-    (effects (font (size 0.8 0.8) (thickness 0.2)))
+      (effects (font (size 0.8 0.8) (thickness 0.2)))
     (tstamp 44ccb8c9-8889-45cb-a446-49c1b39da416)
   )
-  (fp_rect (start -8 -7) (end 9.5 7.5) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 1cb19361-e1b8-4ca8-8d82-14d7c25acb7c))
+  (fp_rect (start -8 -7) (end 9 7.5)
+    (stroke (width 0.12) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 1cb19361-e1b8-4ca8-8d82-14d7c25acb7c))
   (model "${ZZKEEB}/lib/kleeb/models/EVQWGD001.step"
     (offset (xyz 8.6 -7.2 -3.5))
     (scale (xyz 1 1 1))
