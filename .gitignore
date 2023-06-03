@@ -3,5 +3,7 @@
 */fp-lib-table
 */sym-lib-table
 *.bak
-*.kicad_prl
-*.kicad_pro
+/kicad/zzkeeb.kicad_prl
+/kicad/zzkeeb.kicad_pro
+/kicad/zzkeeb.kicad_sch
+/kicad/zzkeeb.kicad_pcb

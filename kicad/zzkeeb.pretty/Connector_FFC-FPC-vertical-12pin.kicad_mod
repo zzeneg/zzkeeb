@@ -3,14 +3,20 @@
   (descr "Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)")
   (tags "connector Molex top entry")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -7) (layer "Dwgs.User") hide
+  (fp_text reference "REF**" (at 0 7.4) (layer "Dwgs.User") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ef1b421e-2ad0-4af3-aa5c-4d59fa2380d6)
   )
-  (fp_text value "Connector_FFC-FPC-vertical-12pin" (at 0 8) (layer "F.Fab") hide
+  (fp_text value "Connector_FFC-FPC-vertical-12pin" (at 0 9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9624781c-fad1-4a2c-b7cf-847193fea90f)
   )
+  (fp_text user "VIK" (at 0 -7.6 unlocked) (layer "F.SilkS" knockout)
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp f897d78d-0442-447c-9ec5-5f2d1345ebeb)
+  )
+  (fp_rect (start -1.5 -8.5) (end 1.5 -6.7)
+    (stroke (width 0.5) (type default)) (fill none) (layer "F.SilkS") (tstamp 1e996d9a-b9e1-466c-8edc-7536f33d3910))
   (fp_line (start -2.65 -6.35) (end 2.65 -6.35)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 412620bd-457d-47c2-a95c-abb7dd4b00f6))
   (fp_line (start -2.65 6.35) (end -2.65 -6.35)
@@ -53,6 +59,7 @@
         (width 0) (fill yes))
     ) (tstamp b1e4185c-8bce-4bd5-8963-935544927e45))
   (pad "2" smd custom (at 1.9 -2.25) (size 1 0.5) (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 45)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly
