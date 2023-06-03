@@ -3,7 +3,7 @@
   (descr "Resitance 3 pas")
   (tags "R")
   (attr through_hole)
-  (fp_text reference "D1" (at 0 -1.4) (layer "F.SilkS") hide
+  (fp_text reference "D1" (at 0 1.4) (layer "F.SilkS") hide
       (effects (font (size 0.75 0.75) (thickness 0.125)))
     (tstamp b1cb04dc-bca5-4f61-8b62-3cf2d0e26ed0)
   )
@@ -11,7 +11,7 @@
       (effects (font (size 0.5 0.5) (thickness 0.125)))
     (tstamp 0094a30d-a2d2-4847-89cb-e4d04fd89343)
   )
-  (fp_text user "c${col}r${row}" (at 0 1.6) (layer "F.SilkS")
+  (fp_text user "C${col}R${row}" (at 0 -1.6) (layer "F.SilkS")
       (effects (font (size 0.8 0.8) (thickness 0.1)))
     (tstamp 2fb08bb6-9573-465f-a5e5-574f820a9c61)
   )

@@ -9,8 +9,8 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f28dcb7d-cba1-41c8-b4f8-5a9ebb0c077d)
   )
-  (fp_text user "c${col}r${row}" (at 0 8.2) (layer "B.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))
+  (fp_text user "C${col}R${row}" (at -2 1.8) (layer "B.SilkS")
+      (effects (font (size 0.8 0.8) (thickness 0.1)) (justify left mirror))
     (tstamp 7c099145-b925-4566-802e-4e36dc602534)
   )
   (fp_line (start -4.8 2.85) (end -4.8 3.7)
@@ -95,12 +95,12 @@
   (model "${ZZKEEB}/lib/0xCB-libs/LIB/3dmodels/0xcb.3dshapes/SW_Cherry_MX_PCB.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
   (model "${ZZKEEB}/lib/0xCB-libs/LIB/3dmodels/0xcb.3dshapes/SW_Hotswap_Kailh.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
   (model "${ZZKEEB}/lib/DCS_keycaps/STEP/Blanks/Row2/Row_2_1u.step"
     (offset (xyz 0 0 13))
