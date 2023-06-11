@@ -1,13 +1,11 @@
-(footprint "Connector_FPC-FFC-adapter-12pin" (version 20221018) (generator pcbnew)
+(footprint "Connector_VIK-adapter-keyboard" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "Through hole straight pin header, 2x06, 2.54mm pitch, double rows")
-  (tags "Through hole pin header THT 2x06 2.54mm double row")
   (attr through_hole)
   (fp_text reference "REF**" (at 1.27 -15.55 180) (layer "Dwgs.User") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 05730517-9f96-4aed-aa83-0e22e238f4e1)
   )
-  (fp_text value "Connector_FPC-FFC-adapter-12pin" (at 1.27 -16.95 180) (layer "F.Fab") hide
+  (fp_text value "Connector_VIK-adapter-keyboard" (at 1.27 -16.95 180) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ca57fdbe-ef27-4c76-9425-750405b87710)
   )

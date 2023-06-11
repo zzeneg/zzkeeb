@@ -17,4 +17,5 @@ Based on:
 - [Encoder knob](https://grabcad.com/library/knob-85)
 - [11mm rotary encoder](https://grabcad.com/library/11mm-metal-shaft-rotary-encoders-tht-vertical-w-push-on-switch-1)
 - [ChocV1 socket](https://grabcad.com/library/kailh-1350-socket-2)
+- [FFC horizontal 12p](https://grabcad.com/library/fpc-ffc-1)
 - [KS-33 switch/socket](https://github.com/DeltaWhy/ols)

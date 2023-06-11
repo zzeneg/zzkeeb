@@ -1,13 +1,11 @@
-(footprint "Connector_FFC-FPC-vertical-12pin" (version 20221018) (generator pcbnew)
+(footprint "Connector_VIK-vertical-keyboard" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "Molex 0.50mm Pitch Easy-On Type FFC/FPC, 52559-3652, 36 Circuits (https://www.molex.com/pdm_docs/sd/525593652_sd.pdf)")
-  (tags "connector Molex top entry")
   (attr smd)
   (fp_text reference "REF**" (at 0 7.4) (layer "Dwgs.User") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ef1b421e-2ad0-4af3-aa5c-4d59fa2380d6)
   )
-  (fp_text value "Connector_FFC-FPC-vertical-12pin" (at 0 9) (layer "F.Fab") hide
+  (fp_text value "Connector_VIK-vertical-keyboard" (at 0 9) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9624781c-fad1-4a2c-b7cf-847193fea90f)
   )
@@ -15,6 +13,8 @@
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp f897d78d-0442-447c-9ec5-5f2d1345ebeb)
   )
+  (fp_circle (center -3 -2.8) (end -2.873 -2.8)
+    (stroke (width 0.254) (type solid)) (fill none) (layer "F.SilkS") (tstamp c1f658a5-ce19-456f-b1d9-656037aeef34))
   (fp_line (start -2.65 -6.35) (end 2.65 -6.35)
     (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 412620bd-457d-47c2-a95c-abb7dd4b00f6))
   (fp_line (start -2.65 6.35) (end -2.65 -6.35)
@@ -187,9 +187,9 @@
         )
         (width 0) (fill yes))
     ) (tstamp f76a2daa-759c-4210-8c95-7cc3fb453aed))
-  (model "${ZZKEEB}/models/FPC vertical connector-1mm-10PIN.STEP"
-    (offset (xyz 1.2 -5 0))
-    (scale (xyz 0.65 1 1))
-    (rotate (xyz 0 0 -90))
+  (model "${ZZKEEB}/models/c-1-1734742-2-o-3d.stp"
+    (offset (xyz 0 0 3.8))
+    (scale (xyz 1 1 1.1))
+    (rotate (xyz 0 0 90))
   )
 )
