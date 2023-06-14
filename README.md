@@ -6,6 +6,7 @@ Shared library for my keyboard components
 
 Based on:
 
+- https://github.com/sadekbaroudi/fingerpunch
 - https://github.com/foostan/kbd
 - https://github.com/crides/kleeb
 - https://github.com/keebio/Keebio-Parts.pretty

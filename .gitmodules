@@ -13,3 +13,6 @@
 [submodule "kicad/lib/DCS_keycaps"]
 	path = kicad/lib/DCS_keycaps
 	url = ../../Fooblitzky/DCS_keycaps.git
+[submodule "kicad/lib/fingerpunch"]
+	path = kicad/lib/fingerpunch
+	url = ../../sadekbaroudi/fingerpunch.git
