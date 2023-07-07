@@ -12,7 +12,7 @@
     (tstamp 0094a30d-a2d2-4847-89cb-e4d04fd89343)
   )
   (fp_text user "C${col}R${row}" (at 0 -1.6) (layer "F.SilkS")
-      (effects (font (size 0.8 0.8) (thickness 0.1)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 2fb08bb6-9573-465f-a5e5-574f820a9c61)
   )
   (fp_line (start -2.95 -0.75) (end -2.95 0.75)
