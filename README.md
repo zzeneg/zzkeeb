@@ -2,6 +2,10 @@
 
 Shared library for my keyboard components
 
+## Custom 3D models
+
+- choc opener, just sprued two models from https://www.thingiverse.com/thing:3097933
+
 ## Kicad
 
 Based on:
