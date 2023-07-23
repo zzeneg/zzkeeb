@@ -11,7 +11,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b70f5c68-44b6-4c18-89e2-5fa4d92f5907)
   )
-  (fp_rect (start -7.75 -6.4) (end 7.75 6.4)
+  (fp_rect (start -7.75 -6.5) (end 7.75 6.5)
     (stroke (width 0.12) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 70ae61a8-2b7c-464e-bc6e-14b5f84171d1))
   (model "${ZZKEEB}/models/EC11-THT-15F-black.step"
     (offset (xyz 0 0 0))
