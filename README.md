@@ -24,3 +24,4 @@ Based on:
 - [ChocV1 socket](https://grabcad.com/library/kailh-1350-socket-2)
 - [FFC horizontal 12p](https://grabcad.com/library/fpc-ffc-1)
 - [KS-33 switch/socket](https://github.com/DeltaWhy/ols)
+- [5way switch](https://grabcad.com/library/5-way-tactile-button-tht-1)
