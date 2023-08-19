@@ -40,8 +40,8 @@
   (pad "4" smd rect (at 2.58 -0.75) (size 1.64 0.82) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 703100f9-221b-45d8-a38e-d1435a2ebc00))
   (pad "4" smd rect (at 2.58 0.75) (size 1.64 0.82) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0c61985a-80db-49b1-8f3d-d5c22ebabaf2))
   (model "${ZZKEEB}/lib/kbd/kicad-packages3D/kbd.3dshapes/YS-SK6812MINI-E Soldered.step"
-    (offset (xyz 0 0 -1.9))
+    (offset (xyz 0 0 0.1))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 180 0))
   )
 )
