@@ -1,17 +1,17 @@
-(footprint "Button_5way-reversible" (version 20221018) (generator pcbnew)
+(footprint "Button_5way-reversible-flip3d" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (property "Sheetfile" "Zazu.kicad_sch")
   (property "Sheetname" "")
   (attr through_hole exclude_from_pos_files)
-  (fp_text reference "REF**" (at 0 2.5) (layer "B.SilkS") hide
+  (fp_text reference "REF**" (at 0 3) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15) bold) (justify mirror))
     (tstamp ef75a5da-5145-4261-87d0-5f8222f27a33)
   )
-  (fp_text value "Button_5way-reversible" (at 0 0) (layer "F.Fab")
+  (fp_text value "Button_5way-reversible-flip3d" (at 0 0) (layer "F.Fab")
       (effects (font (size 0.8128 0.8128) (thickness 0.1524)))
     (tstamp 09a23fb9-6266-45c7-9697-0cdb7a5cd583)
   )
-  (fp_text user "${REFERENCE}" (at 0 2.5) (layer "F.SilkS") hide
+  (fp_text user "${REFERENCE}" (at 0 3) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c7afbc2c-6161-4126-957d-e2e7c31f6670)
   )
@@ -40,13 +40,13 @@
   (pad "5" thru_hole circle (at 5.25 0.45) (size 1.6 1.6) (drill 1) (layers "*.Cu" "*.Mask") (tstamp c2ed8e84-9eba-486d-93c5-9c91157fd08e))
   (pad "6" thru_hole circle (at 5.25 -3.25) (size 1.8 1.8) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp 1f49b8e4-527b-4fcc-ac52-f0206a45da39))
   (model "${ZZKEEB}/models/5-WayTactileButton10mmTHT.stp"
-    (offset (xyz 5.1 5.1 0.1))
+    (offset (xyz -5.1 5.1 -1.7))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -180))
+    (rotate (xyz 0 180 180))
   )
   (model "${ZZKEEB}/models/5-way-concave-short.step"
-    (offset (xyz 0 0 6.5))
+    (offset (xyz 0 0 -8))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 180 0))
   )
 )
