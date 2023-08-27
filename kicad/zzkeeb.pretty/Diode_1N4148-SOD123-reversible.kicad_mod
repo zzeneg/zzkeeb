@@ -64,7 +64,7 @@
   (pad "2" smd rect (at 1.775 0) (size 1.3 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6d0a6c5c-4646-400e-a865-7a7edf359548))
   (pad "2" smd rect (at 1.775 0) (size 1.3 0.95) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 4f374d4e-0028-4db1-8631-acb148712289))
   (model "${ZZKEEB}/lib/kbd/kicad-packages3D/kbd.3dshapes/D_SOD-123 Soldered.step"
-    (offset (xyz 0 0 0))
+    (offset (xyz 0 0 -0.1))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
