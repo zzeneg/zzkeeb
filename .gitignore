@@ -1,9 +1,4 @@
-*/*-backups
-*/fp-info-cache
-*/fp-lib-table
-*/sym-lib-table
-*.bak
-/kicad/zzkeeb.kicad_prl
-/kicad/zzkeeb.kicad_pro
-/kicad/zzkeeb.kicad_sch
-/kicad/zzkeeb.kicad_pcb
+*/**/*-backups
+*/**/jlcpcb/gerber
+
+/kicad/test-project

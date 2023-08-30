@@ -1,0 +1,6 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+VIK_K1,Connector_VIK-keyboard,Connector_VIK-magnetic-keyboard,122.175,-53.375,90.0,top
+VIK_K2,Connector_VIK-keyboard,Connector_VIK-vertical-keyboard,108.35,-53.0,90.0,top
+VIK_K3,Connector_VIK-keyboard,Connector_VIK-vertical-keyboard,135.65,-53.0,90.0,bottom
+VIK_K4,Connector_VIK-keyboard,Connector_VIK-horizontal-keyboard,108.35,-53.0,180.0,bottom
+VIK_K5,Connector_VIK-keyboard,Connector_VIK-horizontal-keyboard,135.65,-53.0,180.0,top
