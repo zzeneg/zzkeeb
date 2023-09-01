@@ -1,15 +1,15 @@
-(footprint "Cutout_LED_SK6812-MINI-E" (version 20211014) (generator pcbnew)
+(footprint "LED_SK6812-MINI-E-cutout" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 5ECEB660)
   (fp_text reference "REF**" (at 0 2.1 unlocked) (layer "B.SilkS") hide
-    (effects (font (size 0.7 0.7) (thickness 0.15)) (justify mirror))
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify mirror))
     (tstamp 79f70fec-60a6-434e-8346-b68d858f84de)
   )
   (fp_text value "Cutout_LED_SK6812-MINI-E" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
-    (effects (font (size 1 1) (thickness 0.15)))
+      (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4f3b639d-75f3-4a83-ad91-c49d4641cfc9)
   )
-  (fp_rect (start -3.75 1.75) (end 3.75 -1.75) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp edfdb6b9-10d0-4cec-89eb-102edd39cade))
+  (fp_rect (start -4.5 2) (end 4.5 -2)
+    (stroke (width 0.1) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp edfdb6b9-10d0-4cec-89eb-102edd39cade))
   (model "${ZZKEEB}/lib/kbd/kicad-packages3D/kbd.3dshapes/YS-SK6812MINI-E Soldered.step"
     (offset (xyz 0 0 -2))
     (scale (xyz 1 1 1))
