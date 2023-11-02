@@ -25,3 +25,4 @@ Based on:
 - [FFC horizontal 12p](https://grabcad.com/library/fpc-ffc-1)
 - [KS-33 switch/socket](https://github.com/DeltaWhy/ols)
 - [5way switch](https://grabcad.com/library/5-way-tactile-button-tht-1)
+- [JST 12pin 1.25 connectors](https://grabcad.com/library/jst-gh-1-25mm-connector-set-1)
