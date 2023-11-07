@@ -24,7 +24,7 @@
   (fp_rect (start -9 -11.75) (end 9 11.75)
     (stroke (width 0.12) (type solid)) (fill none) (layer "Dwgs.User") (tstamp 180245d9-4a3f-4d1b-adcc-b4eafac722e0))
   (fp_rect (start -5.3 -11) (end 5.3 8.8)
-    (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 9f7988e4-9d32-460a-832c-cb57f22d65ad))
+    (stroke (width 0.1) (type default)) (fill none) (layer "Eco1.User") (tstamp 9f7988e4-9d32-460a-832c-cb57f22d65ad))
   (pad "1" thru_hole oval (at 7.7 -10.16 180) (size 2.6 1.5) (drill 1 (offset -0.5 0)) (layers "*.Cu" "*.Mask") (tstamp a67b97a6-51fd-4a32-8231-3fd10436b6ab))
   (pad "2" thru_hole oval (at 7.7 -7.62 180) (size 2.6 1.5) (drill 1 (offset -0.5 0)) (layers "*.Cu" "*.Mask") (tstamp 68f7174d-ce7a-41b4-89f8-dd7e3ded57a1))
   (pad "3" thru_hole oval (at 7.7 -5.08 180) (size 2.6 1.5) (drill 1 (offset -0.5 0)) (layers "*.Cu" "*.Mask") (tstamp da7e6488-201f-4286-b86a-ca5aced3697a))
