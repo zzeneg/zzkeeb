@@ -16,3 +16,6 @@
 [submodule "kicad/lib/fingerpunch"]
 	path = kicad/lib/fingerpunch
 	url = ../../sadekbaroudi/fingerpunch.git
+[submodule "kicad/lib/vik"]
+	path = kicad/lib/vik
+	url = ../../sadekbaroudi/vik.git
