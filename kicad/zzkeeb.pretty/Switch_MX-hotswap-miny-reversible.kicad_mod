@@ -54,19 +54,19 @@
   (pad "" np_thru_hole circle (at 2.54 5.08) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 9a2008f1-be13-4f5f-8891-98763f0079a9))
   (pad "" np_thru_hole circle (at 3.81 2.540001) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 49c8cc7d-73e5-445d-bb4e-38fdd4eaf194))
   (pad "" np_thru_hole circle (at 5.079999 0 180) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 3b80cdcc-6049-4a55-8577-979a3cd8c107))
-  (pad "1" smd custom (at 7.2 5.1 180) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd custom (at -8.500001 2.5 180) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly
         (pts
-          (xy 0.3 -1.2)
-          (xy 0.3 1.2)
-          (xy 2.7 1.2)
-          (xy 2.7 -1.2)
+          (xy -2.7 -1.2)
+          (xy -0.3 -1.2)
+          (xy -0.3 1.2)
+          (xy -2.7 1.2)
         )
         (width 0.1) (fill yes))
-    ) (tstamp a18c5989-8f13-4b8e-8d81-de39c4c89366))
+    ) (tstamp c1340aa6-31ff-4a37-9d6c-4ea4f3aaaa19))
   (pad "1" smd custom (at 8.500001 2.5 180) (size 0.7 1.5) (layers "B.Cu" "B.Paste" "B.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor rect))
@@ -80,19 +80,6 @@
         )
         (width 0.1) (fill yes))
     ) (tstamp 52801242-d58a-44a4-b363-3969f2802fab))
-  (pad "2" smd custom (at -8.500001 2.5 180) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
-    (thermal_bridge_angle 45)
-    (options (clearance outline) (anchor rect))
-    (primitives
-      (gr_poly
-        (pts
-          (xy -2.7 -1.2)
-          (xy -0.3 -1.2)
-          (xy -0.3 1.2)
-          (xy -2.7 1.2)
-        )
-        (width 0.1) (fill yes))
-    ) (tstamp c1340aa6-31ff-4a37-9d6c-4ea4f3aaaa19))
   (pad "2" smd custom (at -7.2 5.1 180) (size 0.7 1.5) (layers "B.Cu" "B.Paste" "B.Mask")
     (thermal_bridge_angle 45)
     (options (clearance outline) (anchor rect))
@@ -106,6 +93,19 @@
         )
         (width 0.1) (fill yes))
     ) (tstamp 3d302b30-4463-44bf-aad9-e91ffdf63b57))
+  (pad "2" smd custom (at 7.2 5.1 180) (size 0.7 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly
+        (pts
+          (xy 0.3 -1.2)
+          (xy 0.3 1.2)
+          (xy 2.7 1.2)
+          (xy 2.7 -1.2)
+        )
+        (width 0.1) (fill yes))
+    ) (tstamp a18c5989-8f13-4b8e-8d81-de39c4c89366))
   (model "${ZZKEEB}/lib/0xCB-libs/LIB/3dmodels/0xcb.3dshapes/SW_Cherry_MX_PCB.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
