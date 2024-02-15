@@ -90,8 +90,8 @@
   (pad "" np_thru_hole circle (at 2.6 5.75) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask") (tstamp 7c4ee498-5f36-4a0a-9e19-e3d762d0a709))
   (pad "" np_thru_hole circle (at 4.4 4.7) (size 3 3) (drill 3) (layers "F&B.Cu" "*.Mask") (tstamp cf261616-ec1f-49a6-9f30-e8587fe67397))
   (pad "" np_thru_hole circle (at 5.08 0 180) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp 3b80cdcc-6049-4a55-8577-979a3cd8c107))
-  (pad "1" smd rect (at -5.875 5.75) (size 2.6 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dc87ec35-e892-463c-aff3-7445d84b39f8))
-  (pad "1" smd rect (at 5.875 5.75) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 473c3eef-6985-4af1-bc6a-6be71d3d0802))
+  (pad "1" smd rect (at -6 5.75) (size 2.8 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dc87ec35-e892-463c-aff3-7445d84b39f8))
+  (pad "1" smd rect (at 6 5.75) (size 2.8 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 473c3eef-6985-4af1-bc6a-6be71d3d0802))
   (pad "2" smd rect (at -7.675 4.7) (size 2.6 2.6) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 2f26e69b-d7a1-4602-a3d0-9daf65d1b58e))
   (pad "2" smd rect (at 7.675 4.7) (size 2.6 2.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 50ebbf26-c213-4f15-b68d-12d9a9268fc7))
   (model "${ZZKEEB}/models/ks33.step"

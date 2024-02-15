@@ -45,7 +45,7 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "Eco2.User") (tstamp 10710f5b-2b8a-4e82-bf14-916015094bd3))
   (fp_rect (start -9.5 -8) (end 9.5 8)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.Fab") (tstamp 084a0a45-db7f-4b86-a708-c349a5c9a674))
-  (fp_rect (start -2.6 -6.3) (end 2.6 -3.1)
+  (fp_rect (start -2.6 -6.3) (end 2.6 -3.2)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.Fab") (tstamp 3e460a06-dd94-4707-b518-cc7e2820dc0f))
   (pad "" np_thru_hole circle (at -5.079999 0 180) (size 1.7 1.7) (drill 1.7) (layers "*.Cu" "*.Mask") (tstamp fe32ed18-a07b-45cc-9fee-f9ad21dc5539))
   (pad "" np_thru_hole circle (at -3.81 2.54) (size 3 3) (drill 3) (layers "*.Cu" "*.Mask") (tstamp 6c4ff5f0-3feb-4c26-a1df-eb984d7347a5))
