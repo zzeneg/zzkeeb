@@ -9,7 +9,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4934a0b5-ec47-4e8a-a757-4d59ccf63f64)
   )
-  (pad "" thru_hole circle (at 0 0) (size 4.5 4.5) (drill 2.6) (layers "*.Cu" "F.Mask") (tstamp 22d43f1a-8174-4a33-8f52-556b559e2471))
+  (pad "" thru_hole circle (at 0 0) (size 4.8 4.8) (drill 2.65) (layers "*.Cu" "F.Mask") (tstamp 22d43f1a-8174-4a33-8f52-556b559e2471))
   (model "${ZZKEEB}/models/solder-nut-4x5x2.5x1.5.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
