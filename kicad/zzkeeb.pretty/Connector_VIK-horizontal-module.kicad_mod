@@ -1,4 +1,4 @@
-(footprint "Connector_VIK-horizontal-keyboard"
+(footprint "Connector_VIK-horizontal-module"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -14,7 +14,7 @@
 			)
 		)
 	)
-	(property "Value" "Connector_VIK-horizontal-keyboard"
+	(property "Value" "Connector_VIK-horizontal-module"
 		(at 0 6.9 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -185,7 +185,7 @@
 		(uuid "8a4d4667-a79e-41c0-9b06-9a343b06e129")
 	)
 	(fp_text user "3v3"
-		(at -4.5 -3 0)
+		(at 4 -3 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "4b4e2262-ee67-4f3c-8691-135ff3728f16")
@@ -196,7 +196,7 @@
 			)
 		)
 	)
-	(fp_text user "VIK OUT"
+	(fp_text user "VIK IN"
 		(at 0 -3.5 0)
 		(unlocked yes)
 		(layer "F.SilkS" knockout)
