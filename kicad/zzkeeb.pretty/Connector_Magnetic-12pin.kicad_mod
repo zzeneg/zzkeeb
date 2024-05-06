@@ -1,0 +1,207 @@
+(footprint "Connector_Magnetic-12pin"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.17 -10.05 180)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "05730517-9f96-4aed-aa83-0e22e238f4e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Connector_Magnetic-12pin"
+		(at 0 -12 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca57fdbe-ef27-4c76-9425-750405b87710")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Connector_Magnetic-12pin"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b70f224b-3e35-4f77-b777-c4f248a55ed8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33523cdd-4301-4f50-ab0f-d3b6fb3a0e4e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35dd2646-894a-44c5-8a5c-40e5a084f201")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center -2.5 6.5)
+		(end -2.25 6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "B.SilkS")
+		(uuid "4b38e754-cd9b-44dd-8104-62e7fee0b274")
+	)
+	(fp_circle
+		(center -2.5 6.5)
+		(end -2.25 6.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "d10f9b7f-47c7-496e-9448-77cfdabf05cd")
+	)
+	(pad "1" thru_hole circle
+		(at -1.1 5.5 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "189b7421-a6d7-4aff-aace-ca5d6a62345d")
+	)
+	(pad "2" thru_hole circle
+		(at 1.1 5.5 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cdac3c02-e215-45f4-821d-b0d0e204950b")
+	)
+	(pad "3" thru_hole circle
+		(at -1.1 3.3 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a01ca52c-5010-442a-bae3-252519e0c28d")
+	)
+	(pad "4" thru_hole circle
+		(at 1.1 3.3 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "07633f26-bcb5-4fac-9c26-d3d2e753efda")
+	)
+	(pad "5" thru_hole circle
+		(at -1.1 1.1 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8f51bb8a-d821-4cd1-a3c1-1e57cced4882")
+	)
+	(pad "6" thru_hole circle
+		(at 1.1 1.1 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "15efb677-205a-48c6-a2fe-bfc435817acb")
+	)
+	(pad "7" thru_hole circle
+		(at -1.1 -1.1 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "267f74e4-c060-4f52-a52f-d199d6f11904")
+	)
+	(pad "8" thru_hole circle
+		(at 1.1 -1.1 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "55b2950c-59d1-4d58-aaf5-1a5ce4d39927")
+	)
+	(pad "9" thru_hole circle
+		(at -1.1 -3.3 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ab2a85c3-b0df-4f4d-94ae-58128122d863")
+	)
+	(pad "10" thru_hole circle
+		(at 1.1 -3.3 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "717eb698-04f6-422e-8067-862353673799")
+	)
+	(pad "11" thru_hole circle
+		(at -1.1 -5.5 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a2ca4b59-3abc-4e91-be7e-3ff83dba1a3a")
+	)
+	(pad "12" thru_hole circle
+		(at 1.1 -5.5 180)
+		(size 1.6 1.6)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e8daeca4-a325-4667-bbf3-aaed25f0584a")
+	)
+	(model "${ZZKEEB}/models/Magnetic connector 12pin male.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
+	(model "${ZZKEEB}/models/Magnetic connector 12pin female.step"
+		(offset
+			(xyz 0 0 -4.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 90)
+		)
+	)
+)

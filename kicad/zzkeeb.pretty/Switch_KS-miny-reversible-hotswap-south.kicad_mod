@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Switch_KS-miny-reversible-hotswap-south"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -455,22 +455,22 @@
 		(uuid "cf261616-ec1f-49a6-9f30-e8587fe67397")
 	)
 	(pad "1" smd rect
+		(at -7.675 4.7)
+		(size 2.6 2.6)
+		(layers "B.Cu" "B.Paste" "B.Mask")
+		(uuid "2f26e69b-d7a1-4602-a3d0-9daf65d1b58e")
+	)
+	(pad "1" smd rect
 		(at -6 5.75)
 		(size 2.8 2.6)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "dc87ec35-e892-463c-aff3-7445d84b39f8")
 	)
-	(pad "1" smd rect
+	(pad "2" smd rect
 		(at 6 5.75)
 		(size 2.8 2.6)
 		(layers "B.Cu" "B.Paste" "B.Mask")
 		(uuid "473c3eef-6985-4af1-bc6a-6be71d3d0802")
-	)
-	(pad "2" smd rect
-		(at -7.675 4.7)
-		(size 2.6 2.6)
-		(layers "B.Cu" "B.Paste" "B.Mask")
-		(uuid "2f26e69b-d7a1-4602-a3d0-9daf65d1b58e")
 	)
 	(pad "2" smd rect
 		(at 7.675 4.7)
@@ -500,9 +500,9 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${ZZKEEB}/models/Keycap_MX-DES-minY-R3.step"
+	(model "${ZZKEEB}/models/Keycap_MX-DES-minY-minZ-R3.step"
 		(offset
-			(xyz 0 0 7.5)
+			(xyz 0 0 8.6)
 		)
 		(scale
 			(xyz 1 1 1)

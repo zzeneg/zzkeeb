@@ -489,8 +489,20 @@
 		(uuid "1483fb57-614c-44f9-a0a0-4d222a15e765")
 	)
 	(model "${ZZKEEB}/models/splinky.step"
+		(hide yes)
 		(offset
 			(xyz 0 13.9 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${ZZKEEB}/models/splinky-headers.step"
+		(offset
+			(xyz 0 13.9 -7.8)
 		)
 		(scale
 			(xyz 1 1 1)

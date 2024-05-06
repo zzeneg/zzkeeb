@@ -28,7 +28,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "Switch_KS-miny-reversible-hotswap-south-flip3d"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -500,9 +500,9 @@
 			(xyz 0 180 0)
 		)
 	)
-	(model "${ZZKEEB}/models/Keycap_MX-DES-minY-R3.step"
+	(model "${ZZKEEB}/models/Keycap_MX-DES-minY-minZ-R3.step"
 		(offset
-			(xyz 0 0 -9.1)
+			(xyz 0 0 -10.2)
 		)
 		(scale
 			(xyz 1 1 1)
