@@ -1,16 +1,76 @@
-(footprint "Hole_M2" (version 20211014) (generator pcbnew)
-  (layer "F.Cu")
-  (tedit 5F8C61BB)
-  (descr "Mounting Hole 2.2mm, no annular, M2")
-  (tags "mounting hole 2.2mm no annular m2")
-  (attr exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "Ref**" (at -0.95 -0.55) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 39c0eadb-cdd7-4b42-ab9c-7229ca42260f)
-  )
-  (fp_text value "Val**" (at 0 0.55) (layer "F.Fab") hide
-    (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 70fa3d99-07dc-4762-94e6-861bdeec6510)
-  )
-  (pad "" np_thru_hole circle (at 0 0) (size 2.3 2.3) (drill 2.3) (layers *.Cu *.Mask) (tstamp 122aa6ee-812d-4394-9865-e92e873bb999))
+(footprint "Hole_M2"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 2.2mm, no annular, M2")
+	(tags "mounting hole 2.2mm no annular m2")
+	(property "Reference" "Ref**"
+		(at -0.95 -0.55 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39c0eadb-cdd7-4b42-ab9c-7229ca42260f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Val**"
+		(at 0 0.55 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "70fa3d99-07dc-4762-94e6-861bdeec6510")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Hole_M2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b232123-5c08-4590-a8ed-9dec4a2dba85")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a9a1af4f-22d1-4597-80ce-56d4503a215e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "25f2eb0b-b2d9-4c3b-9c55-67bb6f206aee")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 2.4 2.4)
+		(drill 2.4)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "122aa6ee-812d-4394-9865-e92e873bb999")
+	)
 )

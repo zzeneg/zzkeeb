@@ -1,13 +1,75 @@
-(footprint "Hole_M2-TH" (version 20221018) (generator pcbnew)
-  (layer "F.Cu")
-  (attr through_hole)
-  (fp_text reference "REF**" (at 0 2.8) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp efb00724-b8ac-4244-aea4-ccfdc1617cbd)
-  )
-  (fp_text value "Hole_M2-TH" (at 0 -2.8) (layer "F.Fab") hide
-      (effects (font (size 1 1) (thickness 0.15)))
-    (tstamp 4934a0b5-ec47-4e8a-a757-4d59ccf63f64)
-  )
-  (pad "" thru_hole circle (at 0 0) (size 4 4) (drill 2.3) (layers "*.Cu" "*.Mask") (tstamp 22d43f1a-8174-4a33-8f52-556b559e2471))
+(footprint "Hole_M2-TH"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 2.8 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "efb00724-b8ac-4244-aea4-ccfdc1617cbd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Hole_M2-TH"
+		(at 0 -2.8 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4934a0b5-ec47-4e8a-a757-4d59ccf63f64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Hole_M2-TH"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6bc3de9b-7db6-46a4-9920-c107764a616f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6680aa76-54aa-456a-ba86-ddb06af5064a")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "806c2106-0a5b-459a-940d-08f31df30b35")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(pad "" thru_hole circle
+		(at 0 0)
+		(size 4 4)
+		(drill 2.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "22d43f1a-8174-4a33-8f52-556b559e2471")
+	)
 )
