@@ -1,0 +1,314 @@
+(footprint "Switch_ChocV2-cutout-bottom-hotswap"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Kailh \"Choc\" PG1350 keyswitch socket mount")
+	(tags "kailh,choc")
+	(property "Reference" "REF**"
+		(at 0 -4 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "bf6b89ad-9651-4ce8-9a78-045249406acf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Cutout_ChocV1-bottom-hotswap"
+		(at 0 10 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04e10d62-2134-4aba-b662-e29a119730ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9052adc5-0c03-43a9-b77d-6acc8b74a6ef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fab6cc96-f0cc-4ea2-bc6a-1e94076cb53f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "28c20e93-9697-4ec7-bf49-118139fbe540")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -9.7 2.3)
+		(end -9.7 5.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a9493d1b-bbce-40f9-acba-4a3c515cbeb7")
+	)
+	(fp_line
+		(start -9.7 5.3)
+		(end -7.8 5.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c5c61776-acad-41cc-845d-df3a8a1fb9e5")
+	)
+	(fp_line
+		(start -7.8 1.3)
+		(end -7.8 2.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "4d20a7f7-d566-4e89-b742-2b7aed94ad71")
+	)
+	(fp_line
+		(start -7.8 2.3)
+		(end -9.7 2.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "a36abc59-a861-4107-a418-bcb34f877c63")
+	)
+	(fp_line
+		(start -7.8 5.3)
+		(end -7.8 6.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ff797190-58e3-4b7a-a059-90be2c6b7429")
+	)
+	(fp_line
+		(start -7.8 6.3)
+		(end -4.4 6.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f7a33851-220d-4b25-a1fc-f5dde9326eca")
+	)
+	(fp_line
+		(start -6.4 0)
+		(end -6.4 1.3)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0f3b1a56-3c04-451e-85ff-1c32ba57de9a")
+	)
+	(fp_line
+		(start -6.4 1.3)
+		(end -7.8 1.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "598d1bae-bdc2-4982-875a-9bf33845256f")
+	)
+	(fp_line
+		(start -4.6 0)
+		(end -4.6 1.3)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fb14ce30-2d12-4286-827b-eac4b767f731")
+	)
+	(fp_line
+		(start -4.6 1.3)
+		(end -2.6 1.3)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8a8f8119-4943-4b1f-a52c-f86041062e76")
+	)
+	(fp_line
+		(start -2.6 1.3)
+		(end -2.6 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5ccf5cf3-86c4-44fa-82eb-0561531b0533")
+	)
+	(fp_line
+		(start -2.3 8.6)
+		(end -4.4 6.3)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "970ce0f9-f309-412f-afce-e7bf3003ba53")
+	)
+	(fp_line
+		(start -2.3 8.6)
+		(end 2.6 8.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "b0a9c7aa-886f-4841-a608-26f0f3c4899e")
+	)
+	(fp_line
+		(start 2.6 0)
+		(end 2.6 4.5)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dd9c8736-8f16-479b-ad31-f7ee9e73d7f3")
+	)
+	(fp_line
+		(start 2.6 7.4)
+		(end 4.7 7.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "c3426e1c-f919-4ffa-9b97-dea58620c33c")
+	)
+	(fp_line
+		(start 2.6 8.6)
+		(end 2.6 7.4)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "849d5312-a2ac-43e6-8311-1d9a97c98148")
+	)
+	(fp_line
+		(start 4.7 4.5)
+		(end 2.6 4.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9441e5c2-e971-4358-9d83-77c3d2f9bc87")
+	)
+	(fp_line
+		(start 4.7 7.4)
+		(end 4.7 4.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "438eff94-6c94-431d-926b-1d9eb23ca3fb")
+	)
+	(fp_circle
+		(center -5.5 0)
+		(end -5.5 -0.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "026bc555-ff20-4b9b-9a94-32bcad68401b")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 2.6 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "c97495b6-4d05-4f96-9cc9-b35872d7c58b")
+	)
+	(fp_circle
+		(center 5.5 0)
+		(end 5.5 -0.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "46469450-5938-4e86-9cb6-6e34ca759b1e")
+	)
+	(model "${ZZKEEB}/models/Kailh_PG1353.STEP"
+		(offset
+			(xyz 0 0 2.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 90)
+		)
+	)
+	(model "${ZZKEEB}/models/PG1350-socket.STEP"
+		(offset
+			(xyz -10 -5.9 -1.8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 180 0)
+		)
+	)
+	(model "${ZZKEEB}/lib/kleeb/models/pg1350-mbk.step"
+		(offset
+			(xyz 0 -0.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
