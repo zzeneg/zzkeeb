@@ -1,0 +1,78 @@
+(footprint "Connector_USB-C-31-M-12-cutout"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -10.2 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08d34651-e95c-4afb-848a-24e88f8f9399")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Cutout_HRO-TYPE-C-31-M-12"
+		(at 0 1.15 0)
+		(layer "Dwgs.User")
+		(hide yes)
+		(uuid "7dfc3218-add3-4132-ac29-8f742a224334")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc44aaa9-1564-467f-959e-0caa5e6d2fd2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "22c591bd-e699-4fcf-ba95-3bb7a7ee7679")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4d520d2a-fb3c-4a48-b720-22bb1910757f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -5 -9)
+		(end 5 0)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "626f154c-79f6-4d56-8300-1879ceeddfa8")
+	)
+)
